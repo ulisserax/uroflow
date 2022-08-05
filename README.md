@@ -1,10 +1,10 @@
-# uroflow
+# Uroflow
 Machine Learning project to audio extraction and to develop a product to predict a prostatic problem in men through the uro flow rate test
 
 # Audio Data handling using python
 
-Represented by parameters such as frequency, bandwidth, decibel, etc.
-An audio signal can be expressed as a function of amplitude and time.
+## Represented by parameters such as frequency, bandwidth, decibel, etc.
+## An audio signal can be expressed as a function of amplitude and time.
 Example of computer readable formats: wav, mp3, wma
 Tools that can be used in python: Librosa and PyAudio
 Spectogram: Visual way of representing the signal strength present in a wave. Through it we can see how energy levels vary over time and where you have more or less energy.
